@@ -1,0 +1,10 @@
+{
+  "model": "ensemble",
+  "date": "2022-08-13/2022-08-15",
+  "format": "grib",
+  "variable": "mugwort_pollen",
+  "level": "0",
+  "leadtime_hour": "0",
+  "time": "00:00",
+  "type": "forecast"
+}

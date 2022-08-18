@@ -1,0 +1,8 @@
+cdsapi
+jupyter
+matplotlib
+netCDF4
+os
+pandas
+python-dotenv
+rasterio
